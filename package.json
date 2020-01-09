@@ -1,0 +1,13 @@
+{
+  "name": "memoy",
+  "version": "1.0.0",
+  "main": "",
+  "author": "Jun Kajii",
+  "license": "MIT",
+  "scripts": {
+    "commit": "gitmoji -c"
+  },
+  "devDependencies": {
+    "gitmoji-cli": "^3.1.0"
+  }
+}
