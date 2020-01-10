@@ -2,8 +2,8 @@
     "settings": {
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 1586,
-        "worldScrollY": 355,
+        "worldScrollX": 1627,
+        "worldScrollY": 374,
         "zoom": 300,
         "customColorsWhite": "E8F8E0",
         "customColorsLight": "B0F088",
@@ -59,7 +59,7 @@
                     "id": "4c740640-54ba-48ff-8801-383f05b34b3b",
                     "command": "EVENT_GROUP",
                     "args": {
-                        "__label": "Set initial position"
+                        "__label": "Set position"
                     },
                     "children": {
                         "true": [
@@ -91,8 +91,7 @@
                                     "actorId": "player",
                                     "vectorX": "0",
                                     "vectorY": "1",
-                                    "__collapse": true,
-                                    "__label": ""
+                                    "__collapse": true
                                 }
                             },
                             {
